@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;int main() {    int t;cin>>t;    while(t--){        string s;cin>>s;        int n=s.size(),z=0,f=0;        for(int i=n-1;i>-1;i--){            if((f && (s[i]=='2' || s[i]=='7')) || (z && (s[i]=='0' || s[i]=='5'))){cout<<n-i-2<<endl;break;}            if(s[i]=='0')z++;            if(s[i]=='5')f++;        }    }    return 0;}
