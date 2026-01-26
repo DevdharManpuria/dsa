@@ -1,0 +1,1 @@
+#include<bits/stdc++.h>using namespace std;int t,n,m,ans;int main(){	cin>>t;	while(t--){		cin>>n;		ans=-1;		for(int i=1;i<=n;i++){			cin>>m;			ans&=m;		}		cout<<ans<<'\n';	}}
