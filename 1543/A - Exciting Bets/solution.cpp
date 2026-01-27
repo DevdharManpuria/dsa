@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; int main() {    int t;    cin>>t;    while(t--){       long long int x,y;        cin>>x>>y;        if(x==y) cout<<"0 0"<<endl;        else cout<<abs(x-y)<<" "<<min(x%(abs(x-y)),abs(x-y)-x%(abs(x-y)))<<endl;    }    }
