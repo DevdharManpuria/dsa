@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;int main(){	ios::sync_with_stdio(false);	cin.tie(NULL);	int t;	cin>>t;	while(t--){	    int n,m,i,j;	    cin>>n>>m>>i>>j;	    int row1=1;	    if(n-i>i-1) row1=n;	    int col1=1;	    int row2;	    if(row1==n) row2=1;	    else row2=n;	    int col2=m;	    cout<<row1<<" "<<col1<<" "<<row2<<" "<<col2<<endl;	}}
