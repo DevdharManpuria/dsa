@@ -1,0 +1,1 @@
+#include<bits/stdc++.h>using namespace std; int main() {    ios::sync_with_stdio(0); cin.tie(0);    int t;    cin>>t;    while(t--) {        int x, y, k;        cin>>x>>y>>k;        long long total_sticks=1LL*k*y+k-1;        long long count=(total_sticks+x-2)/(x-1);        cout<<count+k<<endl;    }    return 0;}
