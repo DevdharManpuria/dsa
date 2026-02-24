@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;#define int long longconst int mod = 1e9 + 7;void solve(){    int n;    cin>>n;    cout<<2*n-__builtin_popcountll(n)<<endl;}signed main(){    ios::sync_with_stdio(false);    cin.tie(nullptr);    int t;    cin>>t;    while(t--) solve();}
