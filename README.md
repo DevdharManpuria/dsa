@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 3 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -24,6 +26,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.cpp) |
 
 ### implementation
 
@@ -35,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 
 ### number theory
@@ -42,6 +51,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/DevdharManpuria/dsa/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.cpp) |
 
 ---
 
